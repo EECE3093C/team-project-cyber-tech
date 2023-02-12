@@ -1,5 +1,4 @@
-# Basic ideads for presentation
+# Basic ideas for presentation
 
-1. Suggestion for wedding planning
-2. job finding application based on qualification and location
-3. 
+1. Suggestions for wedding planning - budget analyzer; location finder, etc.
+2. Job finding application based on qualifications and locations.

@@ -2,7 +2,7 @@
 [//]: # "Heading is subject to change."
 [//]: # "Contributors: Dhyey Patel, Nachiket Dighe, Nehang Patel, Saumick Pradhan, Tharun Ravi Kumar"
 
-Have you ever found a need for an event planner for wedding? Was it really expensive to hire an event planner? Worry not, this repo consists of a software that helps you create the perfect wedding plan that fits your budget and time availabilty.
+Have you ever found a need for an event planner for wedding? Was it really expensive to hire an event planner? Worry not, this repository consists of a software that helps you create the perfect wedding plan that fits your budget and time availabilty!
 
 ## Vision
 

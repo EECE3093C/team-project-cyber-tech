@@ -37,10 +37,10 @@ Have you ever found a need for an event planner for wedding? Was it really expen
 ## Software Architecture
 
 #### Make it clear that the system can be built, making good use of the available resources and technology.
-* Would be updated by Saumick Pradhan.
+* We will need to generate a dataset of all the service providers in the chosen local region. Then we will generate recommendations based on a pretrained model using the data we collected. We will use Google Cloud Platform to store our datasets and embeddings. For the first iteration, we want to have a smaller text corpus. Our product will have a web interface and will be hosted on UC homepages server.  
 
 #### Describe at a very high level the system's architecture, identifying the components/modules that will interact.
-* Would be updated by Saumick Pradhan.
+* The datasets created will have the search categories (eg. venues, caterers, cake bakeries, musicians, etc.) mapped with the costing options. After prepreocessing the dataset, we will train our model on this corpus. The model will be trained and embeddings will be saved on GCP. The user will enter their budget weights for each categories and our model will recommend options for each category based on that. 
 
 #### Describe the specific data you will access/store.
 * We will be storing data related to the different types of wedding “attributes” that people can potentially opt for based on their desired budget. We will include information about the available venues, caterers, event management services, decorators, etc., which people can choose from based on what their budget is. We would provide all these services (listed in varying prices) and people will be able to choose from them, according to their liking.

@@ -4,6 +4,8 @@
 
 Have you ever found a need for an event planner for wedding? Was it really expensive to hire an event planner? Worry not, this repository consists of a software that helps you create the perfect wedding plan that fits your budget and time availabilty!
 
+</br>
+
 ## Vision
 
 #### Describe the top-level objectives, differentiators, target customers, and scope of your product.
@@ -34,6 +36,8 @@ Have you ever found a need for an event planner for wedding? Was it really expen
 #### What is novel in your approach, that is why is this project compelling and worth developing?
 * We are applying ML methodologies to recommend as per user preferences and the budgets. It doesn't require an user to do extra work of hiring an event planner, talking through what they prefer.
 
+</br>
+
 ## Software Architecture
 
 #### Make it clear that the system can be built, making good use of the available resources and technology.
@@ -47,6 +51,8 @@ Have you ever found a need for an event planner for wedding? Was it really expen
 
 #### What languages/toolkits do you intend to use for the development?
 * UI Tools (html, css, js), VS code, ML model, etc.
+
+</br>
 
 ## Challenges and Risks
 #### What is the single most serious challenge you see in developing the product on schedule?

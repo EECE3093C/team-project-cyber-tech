@@ -59,5 +59,4 @@ Have you ever found a need for an event planner for wedding? Was it really expen
 * One of the main challenges we would face if we developed the product on time is the UI and AWS development, because for a wedding planner website, we would need to ensure that the UI is appealing to the viewers/users, as well as collect information on the various weddings and build API's for using that information and connecting it both front and backend of the software.'
 
 #### How will you minimize or mitigate the risk?
-
-[//]: # "Needs to be worked on!"
+* To reduce the risk of UI and AWS development, we might begin by developing and upgrading our front and back ends using simple open source templates. This gives us a strong start and saves us time, allowing us to focus on building the program. This would also assist us in lowering our AWS consumption expenditures.

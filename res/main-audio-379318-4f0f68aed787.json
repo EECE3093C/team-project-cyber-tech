@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "main-audio-379318",
+  "private_key_id": "4f0f68aed787c556b2f547114d157198c2646c9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCZmPtirSvoR55F\nsOgqlGDVCXOr6qg6rVsWBevIPNhkNZMbT3iLH6TWjWdHf1Bw25o0RsEjVlMQhbMP\nS8ldU2wsDgXt5ScdNUjnjRYBADuQ2VJQUOVv6FOrDSE68Vzj8088bY4HjjUBzYuy\nNOf/g3bh1rAtIX6hfEAyGKWMY8fqyYsd00lO8mcEJ5+QAcG2lo1UU8G20V2xsBjr\nydOkmjSTAOJuhnWhPI00UTM7Uf3Qi0ytQEUVSm/gdZIvJz3weDTq8EsNnmvhaL/a\nkpaGHfkrQl6K4o+YZXR40gDE0ixWOiX6a1DLE1bMDRct/Y8gAepv2nBNzP2iOe7a\nTvSd33HlAgMBAAECgf9XSqUZo82CR0T/8mvYjwEospkyvSrcJFt1ICon0g/wwWvm\nm/H4Q8MC/f02mf6dYhNpZVockHLS+YqLxpPcBzt7T0m6CDmXryb97dVOClZAEwyA\nZYL8+APWvD84uRVoJFByZ4yCX6hjtuhZbt7uTOIdjTJV0tuOxnO1aMjKMCCf47/z\nJOvW0aCQTFA8s6+PJsQkGjs1tHSiT/IvwzOKE2txYWzwSYRsVtJv3G8xOuGdXugb\n+ldMUUalUu9ogVONqFVV7vISxS40NrRCHkPeis6FTa6IB148Jmw0NK6s2vWLU1Mq\n6fTBAcdM7F5+0ovYxl8oOIUpOC8LTnVRIhxNp2cCgYEA0FdszyeiVyE9KUlecrhe\nYCu07XtupbMtdYw3uwUuYuR+DbapBduj+0sM18Jkf7LtXmZPQq0fjQRRtc5hBfBU\n7H4IMMxA+RUdFqAnaRzYwioT23AONlZojrp/AJkBX//onOxgrkHcQaQrcWVInX60\nrowDya2iHkPNRbqM1fKXfq8CgYEAvLu6TNpkHQFFGmo4oVeXFM5gWsIuF90m3aaE\nMz06MAUhqG1c20ExssGucUwwRLvaS+VhNvWmpV+N+rYq+PsDWWm21YuKYcJGuniT\nZZJY9tQ2ClZeNzpW5ww0xMo4HcoB8szRs1myUh/NDBDL+sAMaFNXUs9pzY1jdNLj\nemDsHasCgYAoBGLV91rrOWsx/vGxP1CBUGPUKZ07HotgxKn/tiMOw6yina8hfOqm\nXef9mU0MaiXFuAkJWY9x2p6HOTjRlzP4qMyR8umX7kJEEkb/nZbU1Jgz0fYo4bf7\nkj7KspjdA55+Zbi8P9I6mXnusfGcrrWtwR8JIdy9y3AmMIrUnWAT6QKBgHz6+AEC\nsj8+4wr+Amhdf4/opogThMCK07z+Exd3WTwJeeN2IIKVJpsQhTtDz8cEeye9S2ZA\nwE1M/NFkpwpf9zTTu56oHEhmhb3gMQOXKVCy8OJhlVyPRpMUUzFqFEUty6KEne1d\n3adipb9ytBFl8hF39yDAd3kGQzFOohMdcd6nAoGAEBn5+/kkpjsSJS3hqlGjM4+V\nPNoOmo73lzn90gSgVVuZauKg4GXGKn9baLnkNnp46MJw63Yxu8uY+NvF14GfABTB\nJ1hmyhRqUJDnysmYiY1mgzedZG3I9/q7kbdyfi+oQkFrZ8f9Q07RK0Yn+y4tkB/r\nAjY3YR+RMixbd63+bv0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "when-we-met-service-account@main-audio-379318.iam.gserviceaccount.com",
+  "client_id": "103977061069828883829",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/when-we-met-service-account%40main-audio-379318.iam.gserviceaccount.com"
+}
